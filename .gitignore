@@ -34,9 +34,11 @@ Thumbs.db
 /storage/app/firebase
 /public/certificates
 
-# Postman collections
+# Postman collections & API testing
 postman_collection.json
 POSTMAN_*.json
+*.postman_collection
+*.postman_environment
 
 # IDE & Editor
 *.swp
