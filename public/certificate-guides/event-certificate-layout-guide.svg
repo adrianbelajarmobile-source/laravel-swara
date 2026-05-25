@@ -1,0 +1,47 @@
+<svg width="1600" height="1131" viewBox="0 0 1600 1131" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1131" fill="#f7fafc"/>
+  <rect x="30" y="30" width="1540" height="1071" fill="#ffffff" stroke="#16a34a" stroke-width="14"/>
+  <rect x="55" y="55" width="1490" height="1021" fill="none" stroke="#bbf7d0" stroke-width="4"/>
+
+  <text x="800" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="62" font-weight="700" fill="#065f46">CERTIFICATE OF PARTICIPATION</text>
+  <text x="800" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" letter-spacing="4" fill="#6b7280">SWARA COMMUNITY EVENT TEMPLATE GUIDE</text>
+
+  <line x1="700" y1="235" x2="900" y2="235" stroke="#f59e0b" stroke-width="8"/>
+
+  <g>
+    <rect x="320" y="305" width="960" height="96" fill="#fff3cd" stroke="#d97706" stroke-width="3" stroke-dasharray="12 8"/>
+    <text x="800" y="362" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#92400e">KOSONGKAN AREA INI: NAMA PESERTA</text>
+  </g>
+
+  <g>
+    <rect x="350" y="432" width="900" height="78" fill="#ecfdf5" stroke="#10b981" stroke-width="3" stroke-dasharray="12 8"/>
+    <text x="800" y="482" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#047857">KOSONGKAN AREA INI: JUDUL EVENT</text>
+  </g>
+
+  <g>
+    <rect x="470" y="538" width="660" height="52" fill="#eff6ff" stroke="#2563eb" stroke-width="3" stroke-dasharray="10 7"/>
+    <text x="800" y="572" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#1d4ed8">KOSONGKAN: TANGGAL EVENT</text>
+  </g>
+
+  <g>
+    <rect x="450" y="606" width="700" height="52" fill="#eff6ff" stroke="#2563eb" stroke-width="3" stroke-dasharray="10 7"/>
+    <text x="800" y="640" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#1d4ed8">KOSONGKAN: CHECKED OUT AT</text>
+  </g>
+
+  <g>
+    <rect x="520" y="674" width="560" height="52" fill="#eff6ff" stroke="#2563eb" stroke-width="3" stroke-dasharray="10 7"/>
+    <text x="800" y="708" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#1d4ed8">KOSONGKAN: POINTS</text>
+  </g>
+
+  <g>
+    <rect x="120" y="960" width="430" height="44" fill="#f3f4f6" stroke="#6b7280" stroke-width="2" stroke-dasharray="8 6"/>
+    <text x="135" y="989" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#4b5563">KOSONGKAN: GENERATED AT</text>
+  </g>
+
+  <g>
+    <rect x="1050" y="960" width="430" height="44" fill="#f3f4f6" stroke="#6b7280" stroke-width="2" stroke-dasharray="8 6"/>
+    <text x="1465" y="989" text-anchor="end" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#4b5563">KOSONGKAN: CERTIFICATE ID</text>
+  </g>
+
+  <text x="800" y="1060" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#dc2626">JANGAN ISI TEKS STATIS DI KOTAK DASHED - BACKEND AKAN AUTO-GENERATE</text>
+</svg>
