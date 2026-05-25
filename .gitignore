@@ -22,3 +22,31 @@
 Homestead.json
 Homestead.yaml
 Thumbs.db
+
+# Markdown documentation files (keep README.md only)
+*.md
+!README.md
+!CHANGELOG.md
+
+# Deployment & config files
+.env.local
+.env.*.local
+/storage/app/firebase
+/public/certificates
+
+# Postman collections
+postman_collection.json
+POSTMAN_*.json
+
+# IDE & Editor
+*.swp
+*.swo
+*~
+.c9/
+.project
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
